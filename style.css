@@ -46,6 +46,10 @@
     margin-top: 100px;
 }
 
+.socials a{
+    color: darkslategrey;
+}
+
 .navbar {
     background-color: black;
     width: 100%;
